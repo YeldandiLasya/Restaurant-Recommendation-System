@@ -34,7 +34,7 @@ Built with machine learning techniques (TF-IDF and cosine similarity) and deploy
 ## ⚙️ Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YeldandiLasys/Restaurant-Recommendation-System.git
+git clone https://github.com/YeldandiLasya/Restaurant-Recommendation-System.git
 
 # Navigate to the project directory
 cd Restaurant-Recommendation-System
